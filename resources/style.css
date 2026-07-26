@@ -4,15 +4,22 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
-
+.header--secondary{
+    font-weight:300;
+    font-size:40px;
+    color: #ffffff;
+}
+.header--sub-header{
+    font-size:21px;
+    color: grey
+}
  .header--main{ 
     font-weight:normal;
     font-size:50px;
     color: #ffffff;
 }
 
-.link--cta{
+ .link--cta{
     font-size: 20px;
     color:aquamarine;
 
