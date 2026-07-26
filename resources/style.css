@@ -15,8 +15,13 @@
 }
  .header--main{ 
     font-weight:normal;
-    font-size:300px;
+    font-size:30px;
     color: #ffffff;
+}
+.footer--copywright{
+    text-align:right;
+    font-size:14px;
+    color: #4114c6;
 }
 
  .link--cta{
